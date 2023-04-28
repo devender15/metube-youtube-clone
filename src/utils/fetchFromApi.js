@@ -9,7 +9,6 @@ const options = {
   headers: {
     "X-RapidAPI-Key": import.meta.env.VITE_SOME_KEY_RAPID_API_KEY,
     "content-type": "application/octet-stream",
-    "X-RapidAPI-Key": "0d852ac261msh1eebc1eaecf4c24p1447e0jsnf13b2fa1c791",
     "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
   },
 };
